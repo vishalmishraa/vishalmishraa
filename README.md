@@ -19,7 +19,3 @@ I'm currently learning microservices , docker and kubernetes.
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishalmishraa&theme=dark&hide_border=false)<br/>
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishalmishraa&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=vishalmishraa&limit=5&theme=dark&combine_all_yearly_contributions=true)
